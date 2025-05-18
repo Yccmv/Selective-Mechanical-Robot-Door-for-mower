@@ -1,4 +1,4 @@
-# Selective Mechanical Pet Door for Robotic Mower
+# Selective Mechanical Door for Robotic Mower
 
 This repository contains design files for a fully mechanical, selective passage for robotic lawnmowers. It allows the mower to enter/exit a fenced area while preventing pets (e.g., medium-sized dogs) from escaping.
 
